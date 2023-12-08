@@ -1,0 +1,89 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/main2.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/favicon.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "Xlsx2Pdf_full"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/asposecells/lib/aspose-cells-23.10.jar;asposecells/lib"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/asposecells/lib/bcpkix-jdk15on-1.68.jar;asposecells/lib"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/asposecells/lib/bcprov-jdk15on-1.68.jar;asposecells/lib"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/asposecells/lib/JavaClassBridge.jar;asposecells/lib"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/assets/favicon.ico;assets"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/liz119/newer/xlsx2pdf/Xlsx_To_Pdf/jre;jre/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
